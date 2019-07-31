@@ -1,4 +1,4 @@
-![Banner](images/banner.jpg)
+![Banner](images/banner.png)
 
 # vBulletin - Utilities
 
