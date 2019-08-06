@@ -82,7 +82,7 @@ class vBulletin
 
         $dbConnection = [
             'dsn'      => "mysql:host=$dbServer;dbname=$dbName;port=3306;charset=utf8",
-            'host'     => $dbserver,
+            'host'     => $dbServer,
             'port'     => '3306',
             'dbname'   => $dbName,
             'username' => $dbUser,
