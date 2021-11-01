@@ -1,6 +1,6 @@
-![Banner](images/banner.png)
-
 # vBulletin - Utilities
+
+![Banner](./banner.svg)
 
 > Sample code to connect to a vBulletin powered forum
 
